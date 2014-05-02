@@ -3,6 +3,8 @@
 
 A 4x5 font for small displays.
 
+http://clubweb.interbaun.com/~rc/Papers/microfont.pdf
+
 `4x5-font.js` contains a javascript object describing the font.
 Key/Value pairs are character/mapping pairs. Mapping is list of rows (4 bits).
 
