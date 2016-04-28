@@ -1,3 +1,9 @@
+/**
+ * Ideally char_map should be in the same order as:
+ * 
+ *     http://ecee.colorado.edu/~ecen4633/index_files/ASCII-Map.pdf
+ * 
+ * /
 var char_map = {
     '': [0x0, 0x0, 0x0, 0x0, 0x0],
     '!': [0x4, 0x4, 0x4, 0x0, 0x4],
